@@ -143,7 +143,6 @@ logs/
 
 # Data files (if you want to exclude them)
 *.json
-*.txt
 
 # IDE files
 .vscode/
