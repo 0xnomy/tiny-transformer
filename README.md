@@ -161,7 +161,6 @@ The model will show:
 - **Training Data**: 1000+ English-Pig Latin pairs
 - **Training Loop**: With all best practices
 - **Inference**: Ready to translate new sentences
-- **Clean Code**: No BS, just working code
 - **Smart Checkpointing**: Only keeps the best model
 
 ## Example Usage
