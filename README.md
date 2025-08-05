@@ -78,6 +78,8 @@ python main.py --inference "hello world"
 - `EarlyStopping`: Prevents overfitting
 - `Trainer`: Complete training loop with logging
 
+<img src="./output.png" width="600"/>
+
 ## How It Works
 
 ### 1. Data Processing
@@ -120,7 +122,7 @@ n_decoder_layers: 2   # Decoder depth
 
 # Training
 batch_size: 4         # Adjust for your GPU
-num_epochs: 20        # Training epochs
+num_epochs: 100        # Training epochs
 learning_rate: 0.0001 # Learning rate
 ```
 
